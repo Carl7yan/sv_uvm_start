@@ -1,3 +1,3 @@
-This the third small project done by myself
+This the third small project
 
 It's from  https://www.chipverify.com/systemverilog/systemverilog-testbench-example-adder
